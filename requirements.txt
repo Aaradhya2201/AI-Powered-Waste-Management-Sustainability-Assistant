@@ -1,0 +1,7 @@
+
+streamlit
+tensorflow
+Pillow
+langchain
+openai
+shap
