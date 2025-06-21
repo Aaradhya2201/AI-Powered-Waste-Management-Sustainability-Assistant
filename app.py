@@ -108,7 +108,6 @@ st.markdown(
 )
 
 # Title
-# Title
 
 
 
@@ -120,7 +119,7 @@ with open('class_names.json') as f:
     class_names = json.load(f)
 
 # Cohere API
-co = cohere.Client("dI0sZjg9h7l8SQIrCVOf31DvhVuLkc8TOxXlP6JC")  # replace your key
+co = cohere.Client("YOUR COHERE API KEY")  # replace your key
 
 # Material Recommendations
 recommendations = {
